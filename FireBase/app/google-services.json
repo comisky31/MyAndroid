@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "245377194735",
+    "firebase_url": "https://oo-basketball.firebaseio.com",
+    "project_id": "oo-basketball",
+    "storage_bucket": "oo-basketball.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245377194735:android:4b720f9d4c1b890a",
+        "android_client_info": {
+          "package_name": "com.example.timwu.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245377194735-n4886pb7off06upls1sdeggr39cc6821.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtRJt6dxLF_k0zGWsd4C5wxXs_6aHbYBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
