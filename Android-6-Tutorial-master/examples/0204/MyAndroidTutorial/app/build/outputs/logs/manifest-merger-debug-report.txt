@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:5:5-37:19
+MERGED from [com.android.support:appcompat-v7:23.0.1] D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:10:9-40
+activity#net.macdidi.myandroidtutorial.MainActivity
+ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:15:27-74
+activity#net.macdidi.myandroidtutorial.AboutActivity
+ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:21:9-23:59
+	android:theme
+		ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:22:13-42
+activity#net.macdidi.myandroidtutorial.ItemActivity
+ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:26:9-36:20
+	android:name
+		ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:27:13-41
+intent-filter#android.intent.category.DEFAULT+net.macdidi.myandroidtutorial.ADD_ITEM+net.macdidi.myandroidtutorial.EDIT_ITEM
+ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:28:13-35:29
+action#net.macdidi.myandroidtutorial.ADD_ITEM
+ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:30:17-80
+	android:name
+		ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:30:25-78
+action#net.macdidi.myandroidtutorial.EDIT_ITEM
+ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:32:17-81
+	android:name
+		ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:32:25-79
+category#android.intent.category.DEFAULT
+ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml:34:27-73
+uses-sdk
+INJECTED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.0.1] D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyAndroid\Android-6-Tutorial-master\examples\0204\MyAndroidTutorial\app\src\main\AndroidManifest.xml
